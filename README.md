@@ -1,5 +1,5 @@
 # Git workflow & basics 
-# Wunderkraut BE - 14/05/2013
+> Wunderkraut BE - 14/05/2013
 
 ## workflow/repo structure
 
