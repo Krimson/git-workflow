@@ -15,9 +15,9 @@
 
 ### » branching/mergin model examples
 
-- [master/DEV](http://nvie.com/img/2009/12/bm002.png)
-- [master/DEV/ABC-123](http://www.intellimentsec.com/wp-content/uploads/2012/12/Branches.png)
+- ![master/DEV](http://nvie.com/img/2009/12/bm002.png)
+- ![master/DEV/ABC-123](http://www.intellimentsec.com/wp-content/uploads/2012/12/Branches.png)
 - master/DEV/ACC
-  - [botanique](http://d.pr/i/BH0L)
-  - [pidpa](http://d.pr/i/7yZl)
+  - ![botanique](http://d.pr/i/BH0L)
+  - ![pidpa](http://d.pr/i/7yZl)
 
