@@ -33,12 +33,12 @@ listing of commonly used commands
 #### » git clone repo
 > clone a repo from the server to local machine
 
-`git clone git@github.com:Krimson/demo-project.git`
+`git clone git@github.com:Krimson/git-workflow.git`
 
 #### » git clone branch
 > clone a specific branch from the server to a local machine
 
-`git clone --branch <branch> git@github.com:Krimson/demo-project.git`
+`git clone --branch <branch> git@github.com:Krimson/git-workflow.git`
 
 ### git branches
 > mind the caps, BRANCH ≠ branch
