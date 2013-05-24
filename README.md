@@ -1,4 +1,5 @@
-# Git basics/workflow - Wunderkraut BE - 14/05/2013
+# Git workflow & basics 
+# Wunderkraut BE - 14/05/2013
 
 ## workflow/repo structure
 
@@ -17,11 +18,11 @@
 
 ### » branching/mergin model examples
 
-- [master/DEV]
-- [master/DEV/ABC-123]
+- [master/DEV](http://nvie.com/img/2009/12/bm002.png)
+- [master/DEV/ABC-123](http://www.intellimentsec.com/wp-content/uploads/2012/12/Branches.png)
 - master/DEV/ACC
-  - [botanique]
-  - [pidpa]
+  - [botanique](http://d.pr/i/BH0L)
+  - [pidpa](http://d.pr/i/7yZl)
 
 ## commands
 
