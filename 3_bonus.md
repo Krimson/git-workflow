@@ -44,14 +44,14 @@ manage global and user specific .gitignore rules on your machine in `~/.gitignor
 
 #### » example
 
-# OS specific files
-*.DS_Store
-*.Spotlight-V100
-*.Trashes
-# app specific files
-*bbprojectd
-*nbproject
-*.sublime*
+    # OS specific files
+    *.DS_Store
+    *.Spotlight-V100
+    *.Trashes
+    # app specific files
+    *bbprojectd
+    *nbproject
+    *.sublime*
 
 ### resources
 
