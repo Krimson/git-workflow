@@ -8,27 +8,27 @@ manage sensible defaults & tweaks in `~/.gitconfig`
 
 #### » color example
 
-`diff = auto`
-`status = auto`
-`branch = auto`
-`interactive = auto`
-`ui = auto`
+    diff = auto
+    status = auto
+    branch = auto
+    interactive = auto
+    ui = auto
 
 #### » color "diff" example
 
-`meta = yellow bold`
-`frag = magenta`
-`plain = white bold`
-`old = red bold`
-`new = green bold`
-`commit = yellow bold`
-`func = green dim`
+    meta = yellow bold
+    frag = magenta
+    plain = white bold
+    old = red bold
+    new = green bold
+    commit = yellow bold
+    func = green dim
 
 #### » color "status" example
 
-`added = yellow`
-`changed = green`
-`untracked = cyan`
+    added = yellow
+    changed = green
+    untracked = cyan
 
 #### » core example
 
@@ -44,14 +44,14 @@ manage global and user specific .gitignore rules on your machine in `~/.gitignor
 
 #### » example
 
-`# OS specific files`
-`*.DS_Store`
-`*.Spotlight-V100`
-`*.Trashes`
-`# app specific files`
-`*bbprojectd`
-`*nbproject`
-`*.sublime*`
+# OS specific files
+*.DS_Store
+*.Spotlight-V100
+*.Trashes
+# app specific files
+*bbprojectd
+*nbproject
+*.sublime*
 
 ### resources
 
