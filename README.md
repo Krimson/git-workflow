@@ -1,3 +1,6 @@
+This repo has been moved to Bitbucket.
+https://bitbucket.org/appno/git-workflow/src/master/
+
 # Git workflow & basics 
 > Wunderkraut BE - 14/05/2013
 
